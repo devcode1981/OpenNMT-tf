@@ -1,9 +1,9 @@
 """OpenNMT-tf version."""
 
-__version__ = "2.29.1"
+__version__ = "2.32.0"
 
 INCLUSIVE_MIN_TF_VERSION = "2.6.0"
-EXCLUSIVE_MAX_TF_VERSION = "2.11.0"
+EXCLUSIVE_MAX_TF_VERSION = "2.14.0"
 
 
 def _check_tf_version():
